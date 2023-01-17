@@ -1,0 +1,5 @@
+# Ignore these libraries
+/minimalxy
+/output
+/__pycache__
+
