@@ -1,6 +1,6 @@
 AUTHOR = 'Jafet Rubi'
 SITENAME = 'Jafet Rubi'
-SITEURL = 'http://127.0.0.1:8000/'
+SITEURL = 'http://127.0.0.1:8000'
 
 PATH = 'content'
 
@@ -25,7 +25,7 @@ AUTHOR_FEED_RSS = None
 # SOCIAL = (('You can add links in your config file', '#'),
 #           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -35,14 +35,14 @@ THEME = 'minimalxy'
 
 # Theme customizations
 # MINIMALXY_CUSTOM_CSS = 'static/custom.css'
-# MINIMALXY_FAVICON = 'favicon.ico'
+MINIMALXY_FAVICON = 'theme/images/favicon.ico'
 MINIMALXY_START_YEAR = 2022
 MINIMALXY_CURRENT_YEAR =  2023
 
 # Author
 AUTHOR_INTRO = u'Hi - My name is Jafet and I am a data engineer based in the United States.'
 AUTHOR_DESCRIPTION = u'Hi - My name is Jafet. I am a passionate coder, BJJ practitioner, runner, thinker and feeler. I tend to talk about #technology #philosophy #health #data and #travel.'
-AUTHOR_AVATAR = 'https://s.gravatar.com/avatar/ac9c972f025f43347b7b29d377d5e586?s=80'
+AUTHOR_AVATAR = 'theme/images/CapTech_HS.jpg'
 AUTHOR_WEB = ''
 
 # Services
@@ -53,8 +53,8 @@ AUTHOR_WEB = ''
 SOCIAL = (
     # ('facebook', 'http://www.facebook.com/johndoe'),
     # ('twitter', 'http://twitter.com/johndoe'),
-    ('github', 'https://github.com/johndoe'),
-    ('linkedin', 'http://www.linkedin.com/in/johndoe'),
+    ('github', 'https://github.com/coopopooc'),
+    ('linkedin', 'https://www.linkedin.com/in/jafetrubi/'),
 )
 
 # Menu
