@@ -40,9 +40,9 @@ MINIMALXY_START_YEAR = 2022
 MINIMALXY_CURRENT_YEAR =  2023
 
 # Author
-AUTHOR_INTRO = u'Hello world! I’m John Doe.'
-AUTHOR_DESCRIPTION = u'Hello world! I’m John Doe. I like coffee, birds and Python.'
-AUTHOR_AVATAR = 'http://www.gravatar.com/avatar/abcdefghijkl?s=240'
+AUTHOR_INTRO = u'Hi - My name is Jafet and I am a data engineer based in the United States.'
+AUTHOR_DESCRIPTION = u'Hi - My name is Jafet. I am a passionate coder, BJJ practitioner, runner, thinker and feeler. I tend to talk about #technology #philosophy #health #data and #travel.'
+AUTHOR_AVATAR = 'https://s.gravatar.com/avatar/ac9c972f025f43347b7b29d377d5e586?s=80'
 AUTHOR_WEB = ''
 
 # Services
