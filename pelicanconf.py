@@ -44,6 +44,13 @@ AUTHOR_INTRO = u'Hi - My name is Jafet and I am a data engineer based in the Uni
 AUTHOR_DESCRIPTION = u'Hi - My name is Jafet. I am a passionate coder, BJJ practitioner, runner, thinker and feeler. I tend to talk about #technology #philosophy #health #data and #travel.'
 AUTHOR_AVATAR = 'theme/images/CapTech_HS.jpg'
 AUTHOR_WEB = ''
+ABOUT_ME = '''<p style="font-size: 12pt; margin-top: 36px;">Hi - My name is Jafet. Welcome to my site! 
+<p>I am a passionate coder, BJJ practitioner, runner, thinker and feeler. I love to think and write about technology, health & wellness, and Brazilian Jiu Jitsu.</p> 
+<p>I am a data engineer by day with a breadth of experience in cloud technologies (AWS and Azure), Python, and SQL.</p>
+<p>To get in contact with me, shoot me an email at <a class="w3-hover-text-blue" href="mailto:jafetrubi@gmail.com">jafetrubi@gmail.com</a>.</p>
+<p>Cheers!</p>
+</p>'''
+
 
 # Services
 # GOOGLE_ANALYTICS = 'UA-12345678-9'
@@ -59,6 +66,7 @@ SOCIAL = (
 
 # Menu
 MENUITEMS = (
+
     # ('Categories', '/' + CATEGORIES_SAVE_AS),
     # ('Archive', '/' + ARCHIVES_SAVE_AS),
 )
