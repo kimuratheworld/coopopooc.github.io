@@ -60,7 +60,7 @@ ABOUT_ME = '''<p style="font-size: 12pt; margin-top: 36px;">Hi - My name is Jafe
 SOCIAL = (
     # ('facebook', 'http://www.facebook.com/johndoe'),
     # ('twitter', 'http://twitter.com/johndoe'),
-    ('github', 'https://github.com/coopopooc'),
+    ('github', 'https://github.com/kimuratheworld'),
     ('linkedin', 'https://www.linkedin.com/in/jafetrubi/'),
 )
 
