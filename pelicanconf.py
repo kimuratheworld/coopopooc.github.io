@@ -41,7 +41,7 @@ MINIMALXY_CURRENT_YEAR =  2023
 
 # Author
 AUTHOR_INTRO = u'Hi - My name is Jafet and I am a data engineer based in the United States.'
-AUTHOR_DESCRIPTION = u'Hi - My name is Jafet. I am a passionate coder, BJJ practitioner, runner, thinker and feeler. I tend to talk about #technology #philosophy #health #data and #travel.'
+AUTHOR_DESCRIPTION = u'Hi - My name is Jafet. I am a tech junkie and a passionate coder. I tend to talk about #technology #philosophy #health #data and #travel.'
 AUTHOR_AVATAR = 'theme/images/CapTech_HS.jpg'
 AUTHOR_WEB = ''
 ABOUT_ME = '''<p style="font-size: 12pt; margin-top: 36px;">Hi - My name is Jafet. Welcome to my site! 
