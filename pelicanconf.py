@@ -45,10 +45,10 @@ AUTHOR_DESCRIPTION = u'Hi - My name is Jafet. I am a passionate coder, BJJ pract
 AUTHOR_AVATAR = 'theme/images/CapTech_HS.jpg'
 AUTHOR_WEB = ''
 ABOUT_ME = '''<p style="font-size: 12pt; margin-top: 36px;">Hi - My name is Jafet. Welcome to my site! 
-<p>I am a passionate coder, BJJ practitioner, runner, thinker and feeler. I love to think and write about technology, health & wellness, and Brazilian Jiu Jitsu.</p> 
-<p>I am a data engineer by day with a breadth of experience in cloud technologies (AWS and Azure), Python, and SQL.</p>
+<p>I am a passionate coder, BJJ practitioner, and runner. I love to think and write about technology, the environment, and health & wellness.</p> 
+<p>I am a data engineer/back-end developer with experience in Azure, Databricks, PySpark, Python and SQL.</p>
 <p>To get in contact with me, shoot me an email at <a class="w3-hover-text-blue" href="mailto:jafetrubi@gmail.com">jafetrubi@gmail.com</a>.</p>
-<p>Cheers!</p>
+<p>Check out my <b>Github</b> and <b>LinkedIn</b> below.</p>
 </p>'''
 
 
